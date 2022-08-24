@@ -5,14 +5,12 @@
 -   Equivalence statements show two quantities that are equal ($1mL=1 cm^3$)
 -   Conversion factors are ratios made from equivalence statement $1=(\frac{1mL} {1cm^3}), 1=\frac{1cm^3} {1mL}$
 -   Convert by multiplying a unit by a conversion factor that cancels the original unit
--   ![](https://lh3.googleusercontent.com/aKsrtir-Ab7DiqL6f75EIwUCmAKJNpzZGIaEsCp0PRIrqGW6VjcCjmMkV-TgPG_tLFtHJqEb9UbQJRNPp1-PQW_DN4SskmsGOfrdaA2hxE6oiwJGPoNgX4O49BzyaHb5akdIWtgQF5MGyF-HGDEenN0)
-    
+-  $50mL * H_{2}O * \frac{1cm^3}{1mL} = 50cm^3 * H_{2}0$
 -   100cm = 1m, 1 = 1m/100cm
     
 -   Problems:
     
 
-1.    
     
 
 1.  5.2cm to mm = 52mm
