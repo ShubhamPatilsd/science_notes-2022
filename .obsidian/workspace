@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "8-23-2022 (Units and conversion factor).md",
+            "file": "8-24-2022 (Sigfigs).md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8-23-2022 (Units and conversion factor).md",
+                "file": "8-24-2022 (Sigfigs).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8-23-2022 (Units and conversion factor).md",
+                "file": "8-24-2022 (Sigfigs).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8-23-2022 (Units and conversion factor).md"
+                "file": "8-24-2022 (Sigfigs).md"
               }
             }
           },
@@ -138,8 +138,7 @@
   },
   "active": "dfb82a1d49844570",
   "lastOpenFiles": [
-    "8-24-2022 (Sigfigs).md",
-    "2022-08-23.md",
-    "Untitled.md"
+    "8-23-2022 (Units and conversion factor).md",
+    "8-24-2022 (Sigfigs).md"
   ]
 }
