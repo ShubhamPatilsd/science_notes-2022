@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "7280bddfd2d2be41",
+    "type": "split",
+    "children": [
+      {
+        "id": "ded6e1b4b1f4a7aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfb82a1d49844570",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9-6-2022 (dsfsd).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d76e6b9e2b0bbdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Debate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8bfca2daf2b4bd18",
+    "type": "split",
+    "children": [
+      {
+        "id": "e38be58453d9414a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7161ab7d4ee3e6af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de702dbf7c3fe535",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "846744fe510cbfde",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ec2e1fbd33b3c60e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce803554c49d3e02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd2992e7c7d23a99",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Debate.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6955f4304386e507",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Debate.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "688edd33f7cf1842",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9d0da764c316f094",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Debate.md"
+              }
+            }
+          },
+          {
+            "id": "035e32b41446f2df",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "3d76e6b9e2b0bbdf",
+  "lastOpenFiles": [
+    "9-6-2022 (dsfsd).md",
+    "8-23-2022 (Units and conversion factor).md",
+    "8-24-2022 (Sigfigs).md"
+  ]
+}
