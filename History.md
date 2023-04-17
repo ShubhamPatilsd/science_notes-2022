@@ -1,1 +1,10 @@
-- Machine guns, artillery guns, poison gas, tanks, airplanes, submarines changed tactis needed to win war
+- Machine guns, artillery guns, poison gas, tanks, airplanes, submarin
+-
+
+
+
+
+
+
+
+
