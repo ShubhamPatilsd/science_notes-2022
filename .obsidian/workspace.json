@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "9c28637263a0276f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kinetic molecular theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3d76e6b9e2b0bbdf",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History.md",
+                "file": "kinetic molecular theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History.md",
+                "file": "kinetic molecular theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History.md"
+                "file": "kinetic molecular theory.md"
               }
             }
           },
@@ -181,10 +193,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a80859e35e4db11",
+  "active": "9c28637263a0276f",
   "lastOpenFiles": [
-    "Debate.md",
     "9-6-2022 (dsfsd).md",
+    "Debate.md",
+    "History.md",
     "8-23-2022 (Units and conversion factor).md",
     "8-24-2022 (Sigfigs).md"
   ]
